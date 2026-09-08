@@ -1,0 +1,12 @@
+# 3DVA volumes - 512 MB each, 22 GB in total, above GitHub's file-size limit.
+# Linked into data/maps/ locally; see data/README.md for how to obtain them.
+data/maps/
+
+# Stitched structures (~540 MB); regenerate with ./run_all.sh
+results/*/structures/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.Zone.Identifier

@@ -1,0 +1,54 @@
+{
+ "component": "component_1",
+ "label": "Component 1",
+ "frame": 7,
+ "actn4_target_rank": 16,
+ "min_subunit_z_gap_A": 26.5,
+ "fitted_coord_max_deviation_A": 0.0,
+ "n_fitted": 12,
+ "n_subunits": 30,
+ "stitch_block_rmsd_A": 0.911,
+ "stitch_block": 3,
+ "stitch_shift": 9,
+ "stitch_overlap": 3,
+ "fitted_ranks": [
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "actn4_rmsd_A": 0.518,
+ "actn4_ca_pairs": 371,
+ "occupancy_pct": 78.23,
+ "density_threshold": 0.2,
+ "n_actn4_ca": 124,
+ "median_map_value": 0.2498,
+ "abp": {
+  "closest_rank": 16,
+  "partner_rank": 14,
+  "middle_rank": 15,
+  "ranks": [
+   14,
+   15,
+   16
+  ],
+  "x_positions": [
+   10,
+   11,
+   12
+  ],
+  "distances_A": {
+   "14": 42.8,
+   "15": 56.1,
+   "16": 32.1
+  }
+ }
+}
